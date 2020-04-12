@@ -1,7 +1,7 @@
 # teacher-query
 
-# question 1
-# answer:
+## Question 1
+### Answer:
 
 ```
 SELECT 
@@ -27,8 +27,8 @@ SELECT
 FROM trn_teacher T;
 ```
 
-# question 2
-# answer
+## Question 2
+### Answer
 ```
 SELECT 
 	T.id,
